@@ -1,12 +1,12 @@
 #pragma once
 
-#define AUTHORS_TWO_A "Lukas Rothenberger, Ahmad Tarraf"
-#define AUTHORS_TWO_B ""
+#define AUTHORS_TWO_A "Felix Garcia Orgaz"
+#define AUTHORS_TWO_B "Felix Garcia Orgaz"
 
-#define AUTHORS_THREE_A ""
-#define AUTHORS_THREE_B ""
+#define AUTHORS_THREE_A "Felix Garcia Orgaz"
+#define AUTHORS_THREE_B "Felix Garcia Orgaz"
 
-#define AUTHORS_FOUR_A ""
+#define AUTHORS_FOUR_A "Felix Garcia Orgaz"
 #define AUTHORS_FOUR_B ""
 
 #define AUTHORS_SIX_A ""
